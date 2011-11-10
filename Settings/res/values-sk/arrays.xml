@@ -30,7 +30,7 @@
   </string-array>
   <string-array name="access_control_app_entries">
     <item>Nechránené</item>
-    <item>Schovať ikonu aplikácie</item>
+    <item>Skryť ikonu aplikácie</item>
     <item>Chránené heslom</item>
   </string-array>
   <string-array name="animations_summaries">
@@ -103,10 +103,10 @@
   </string-array>
   <string-array name="tts_rate_entries">
     <item>Veľmi pomaly</item>
-    <item>Pomalu</item>
+    <item>Pomaly</item>
     <item>Normálne</item>
-    <item>Rýchle</item>
-    <item>Velmi rýchle</item>
+    <item>Rýchlo</item>
+    <item>Velmi rýchlo</item>
   </string-array>
   <string-array name="tts_rate_values">
     <item>60</item>
@@ -132,10 +132,10 @@
   <string-array name="tts_lang_entries">
     <item>Americká angličtina</item>
     <item>Britská angličtina</item>
-    <item>Francouzština</item>
+    <item>Francúzština</item>
     <item>Nemčina</item>
-    <item>Talianština</item>
-    <item>Španielština</item>
+    <item>Taliančina</item>
+    <item>Španielčina</item>
   </string-array>
   <string-array name="tts_lang_values">
     <item>eng-USA</item>
@@ -329,7 +329,7 @@
   </string-array>
   <string-array name="app_install_location_entries">
     <item>Vnútorná pamäť telefónu</item>
-    <item>Výmenená SD karta</item>
+    <item>Výmenná SD karta</item>
     <item>Nechať rozhodnúť systém</item>
   </string-array>
   <string-array name="app_install_location_values">
@@ -416,7 +416,7 @@
   </string-array>
   <string-array name="menu_style_entries">
     <item>Mriežka s ikonami</item>
-    <item>Zoznam s tlačítkami</item>
+    <item>Zoznam s tlačidlami</item>
   </string-array>
   <string-array name="menu_style_values">
     <item>0</item>
