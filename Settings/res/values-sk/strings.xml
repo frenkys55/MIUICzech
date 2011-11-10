@@ -590,12 +590,12 @@
   <string name="dock_settings">Dokovacia stanica</string>
   <string name="dock_settings_summary">Nastavenie zvuku pri pripojení do doku</string>
   <string name="dock_settings_title">Dokovacia stanica</string>
-  <string name="dock_sounds_enable_summary_off">Neprehraje zvuk pri vkladaní alebo vybratí telefónu z dokovacej stanice</string>
-  <string name="dock_sounds_enable_summary_on">Prehraje zvuk pri vložení alebo vybratí telefónu z dokovacej stanice</string>
+  <string name="dock_sounds_enable_summary_off">Neprehrá zvuk pri vkladaní alebo vybratí telefónu z dokovacej stanice</string>
+  <string name="dock_sounds_enable_summary_on">Prehrá zvuk pri vložení alebo vybratí telefónu z dokovacej stanice</string>
   <string name="dock_sounds_enable_title">Zvuk pri vkladaní</string>
   <string name="does_not_exist">Aplikácia neexistuje.</string>
-  <string name="dtmf_tone_enable_summary_off">Zvuky pri dotyku tlačítiek číselníka sú VYPNUTÉ</string>
-  <string name="dtmf_tone_enable_summary_on">Zvuky pri dotyku tlačítiek číselníka sú ZAPNUTÉ</string>
+  <string name="dtmf_tone_enable_summary_off">Zvuky pri dotyku tlačidiel číselníka sú VYPNUTÉ</string>
+  <string name="dtmf_tone_enable_summary_on">Zvuky pri dotyku tlačidiel číselníka sú ZAPNUTÉ</string>
   <string name="dtmf_tone_enable_title">Dotyky so zvukmi</string>
   <string name="electron_beam_animation_off">Animácia rozsvietenia</string>
   <string name="electron_beam_animation_on">Animácia zhasnutia</string>
@@ -1099,7 +1099,7 @@
   <string name="sort_order_size">Radiť podľa veľkosti</string>
   <string name="sound_effects_enable_summary_off">Zvuky pri výbere na displeji sú VYPNUTÉ</string>
   <string name="sound_effects_enable_summary_on">Zvuky pri výbere na displeji sú ZAPNUTÉ</string>
-  <string name="sound_effects_enable_title">Výber zo zvukmi</string>
+  <string name="sound_effects_enable_title">Výber so zvukmi</string>
   <string name="sound_settings">Zvuk</string>
   <string name="sound_settings_title">Zvuk</string>
   <string name="ssid_label">SSID:</string>
@@ -1240,8 +1240,8 @@
   <string name="user_dict_settings_titlebar">Užívateľský slovník</string>
   <string name="version_text">verzia %1$s</string>
   <string name="vibrate_category">Nastavenie vibrácií</string>
-  <string name="vibrate_in_normal_title">V Normálnom režime</string>
-  <string name="vibrate_in_silent_title">V Tichom režime</string>
+  <string name="vibrate_in_normal_title">V normálnom režime</string>
+  <string name="vibrate_in_silent_title">V tichom režime</string>
   <string name="vibrate_item_separator">,</string>
   <string name="vibrate_items_title">Kedy</string>
   <string name="voice_input_category">Hlasový vstup</string>
@@ -1259,7 +1259,7 @@
   <string name="vpn_add_new_vpn">Pridať sieť VPN</string>
   <string name="vpn_auth_error_dialog_msg">Zadané užívateľské meno alebo heslo je nesprávne. Chcete to skúsiť znova?</string>
   <string name="vpn_back_button">Späť</string>
-  <string name="vpn_ca_certificate">Certifikát certifikační autority (CA)</string>
+  <string name="vpn_ca_certificate">Certifikát certifikačnej autority (CA)</string>
   <string name="vpn_ca_certificate_title">Nastaviť certifikát CA</string>
   <string name="vpn_challenge_error_dialog_msg">Chybné odvolanie. Chcete skontrolovať svoje tajné nastavenia?</string>
   <string name="vpn_confirm_add_profile_back">Chcete vytvoriť tento profil?</string>
