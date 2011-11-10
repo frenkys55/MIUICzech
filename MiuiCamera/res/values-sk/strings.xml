@@ -21,7 +21,7 @@
   <string name="gallery_camera_videos_bucket_name">Videá</string>
   <string name="image_file_name_format">"'IMG'_yyyyMMdd_HHmmss"</string>
   <string name="not_enough_space">SD Karta je plná</string>
-  <string name="pref_camera_afzone">Volitelné zóny zaostrenia</string>
+  <string name="pref_camera_afzone">Voliteľné zóny zaostrenia</string>
   <string name="pref_camera_afzone_auto">Auto.</string>
   <string name="pref_camera_afzone_average">Rámec</string>
   <string name="pref_camera_afzone_center">Stred</string>
@@ -42,7 +42,7 @@
   <string name="pref_camera_coloreffect_mono">Čiernobielo</string>
   <string name="pref_camera_coloreffect_mosaic">Mozaika</string>
   <string name="pref_camera_coloreffect_negative">Negatív</string>
-  <string name="pref_camera_coloreffect_none">Žiadný</string>
+  <string name="pref_camera_coloreffect_none">Žiadny</string>
   <string name="pref_camera_coloreffect_pastel">Pastelky</string>
   <string name="pref_camera_coloreffect_posterize">Posterizácia</string>
   <string name="pref_camera_coloreffect_redtint">Dočervena</string>
@@ -69,12 +69,12 @@
   
   <string name="pref_camera_iso_deblur">Doostriť</string>
   <string name="pref_camera_jpegquality">Kvalita</string>
-  <string name="pref_camera_jpegquality_fine">Jemne</string>
-  <string name="pref_camera_jpegquality_normal">Normálne</string>
-  <string name="pref_camera_jpegquality_superfine">Super jemne</string>
+  <string name="pref_camera_jpegquality_fine">Jemná</string>
+  <string name="pref_camera_jpegquality_normal">Normálna</string>
+  <string name="pref_camera_jpegquality_superfine">Super jemná</string>
   <string name="pref_camera_lensshade">Tieň objektívu</string>
   <string name="pref_camera_on_off_setting">Zap./Vyp.</string>
-  <string name="pref_camera_other_setting">Ďaľšie</string>
+  <string name="pref_camera_other_setting">Ďalšie</string>
   <string name="pref_camera_picture_setting">Nastavenie</string>
   <string name="pref_camera_picturesize">Veľkosť:</string>
   <string name="pref_camera_playback">Náhľad fotky</string>
@@ -92,7 +92,7 @@
   <string name="pref_camera_scenemode_auto">Auto</string>
   <string name="pref_camera_scenemode_backlight">Podsvietenie</string>
   <string name="pref_camera_scenemode_beach">Pláž</string>
-  <string name="pref_camera_scenemode_candlelight">Plamen sviečky</string>
+  <string name="pref_camera_scenemode_candlelight">Plameň sviečky</string>
   <string name="pref_camera_scenemode_fireworks">Ohňostroj</string>
   <string name="pref_camera_scenemode_flowers">Kvetiny</string>
   <string name="pref_camera_scenemode_landscape">Krajina</string>
@@ -141,7 +141,7 @@
   <string name="tag_coloreffect">COLOR_EFFECT_INDEX</string>
   <string name="video_camera_label">Videokamera</string>
   <string name="video_file_name_format">"'VID'_yyyyMMdd_HHmmss"</string>
-  <string name="video_reach_size_limit">Bol dosiahnutý limit velikosti videa.</string>
+  <string name="video_reach_size_limit">Bol dosiahnutý limit veľkosti videa.</string>
   <string name="video_settings">Nastavenie videa</string>
   <string name="wait">Čakajte prosím…</string>
 </resources>
