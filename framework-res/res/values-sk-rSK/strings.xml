@@ -1248,7 +1248,7 @@
   <string name="status_bar_toggle_divider">Všetko nad čiarou bude pridané</string>
   <string name="status_bar_toggle_flight_mode">V lietadle</string>
   <string name="status_bar_toggle_gps">GPS</string>
-  <string name="status_bar_toggle_lock">Zámknúť</string>
+  <string name="status_bar_toggle_lock">Zamknúť</string>
   <string name="status_bar_toggle_mute">Tichý</string>
 	<string name="status_bar_toggle_network_type">Režim siete</string>
   <string name="status_bar_toggle_privacy_mode">Návštevník</string>
