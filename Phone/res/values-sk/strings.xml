@@ -9,8 +9,8 @@
   <string name="additional_cdma_call_settings">Ďalšie nastavenia hovorov CDMA</string>
   <string name="administrative_disable">Administratívne zakázané</string>
   <string name="administrative_enable">Administratívne povolené</string>
-  <string name="advanced_settings">Volitelné nastavenia</string>
-  <string name="advanced_settings_container">pokročilé nastavenia kontejneru</string>
+  <string name="advanced_settings">Voliteľné nastavenia</string>
+  <string name="advanced_settings_container">pokročilé nastavenia kontajneru</string>
   <string name="advanced_settings_hide">▽ Stlač pre Všetko skryť</string>
   <string name="advanced_settings_show">▷ Stlač pre Všetko zobraziť</string>
   <string name="advertisements_disable">Reklamy zakázané</string>
@@ -44,8 +44,8 @@
   <string name="auto_answer_pref_title">Automaticky prijať</string>
   <string name="auto_answer_scenario_enteries_always">Vždy</string>
   <string name="auto_answer_scenario_enteries_bluetooth_only">Ak je bluetooth</string>
-  <string name="auto_answer_scenario_enteries_headset_bluetooth">Sluchátka alebo bluetooth</string>
-  <string name="auto_answer_scenario_enteries_headset_only">Ak sú sluchátka</string>
+  <string name="auto_answer_scenario_enteries_headset_bluetooth">Slúchadlá alebo bluetooth</string>
+  <string name="auto_answer_scenario_enteries_headset_only">Ak sú slúchadlá</string>
   <string name="auto_answer_scenario_title">Scenár pre automatické prijatie</string>
   <string name="auto_answer_setting_title">Nastavenie automatického prijatia</string>
   <string name="auto_dialpad_pref_title">Zobrazenie číselníka</string>
@@ -125,7 +125,7 @@
   <string name="confirm_pin_hint">Potvrdiť nový PIN</string>
 	<string name="connect_disconnect_vibrate_none">Nevibrovať</string>
 	<string name="connect_disconnect_vibrate_normal">Vibrovať</string>
-	<string name="connect_disconnect_vibrate_summary">Vibrovať pri položení/zdvihnutí hovoru</string>
+	<string name="connect_disconnect_vibrate_summary">Vibrovať pri položení/zodvihnutí hovoru</string>
 	<string name="connect_disconnect_vibrate_title">Vibrácie</string>
 	<string name="connect_disconnect_vibrate_weak">Slabá vibrácia</string>
   <string name="connect_later">K tejto sieti sa teraz nedá pripojť. Skúste to znova neskôr.</string>
@@ -169,7 +169,7 @@
   <string name="domain_address">SIP doména</string>
   <string name="domain_address_title">Server</string>
   <string name="dtmfDialpadHandleLabel">Číselník</string>
-  <string name="dtmf_tones_summary">Nastaviľ dľžku tónov DTMF</string>
+  <string name="dtmf_tones_summary">Nastaviť dľžku tónov DTMF</string>
   <string name="dtmf_tones_title">Tóny DTMF</string>
   <string name="ecm_exit_dialog">Dialóg ukončenía režimu tiesňového spätného volania</string>
   <string name="editSimContact">Editovať kontakt SIM</string>
@@ -199,7 +199,7 @@
   <string name="enable_disable_local_weather">Miestne počasie</string>
   <string name="enable_disable_lodgings">Ubytovanie</string>
   <string name="enable_disable_maintenance">Údržba</string>
-  <string name="enable_disable_mhh">Lekárstvo, zdravíe a nemocnice</string>
+  <string name="enable_disable_mhh">Lekárstvo, zdravie a nemocnice</string>
   <string name="enable_disable_multi_category">Viac kategórií</string>
   <string name="enable_disable_national">Národné</string>
   <string name="enable_disable_regional">Regionálne</string>
@@ -237,7 +237,7 @@
   <string name="fdn_enabled">Funkcia PTČ je ZAPNUTÁ</string>
   <string name="fdn_enabled_summary">Všetky predchádzajúce voľby sú vypnuté v prípade, že je aktívna pevná predvoľba</string>
   <string name="fdn_invalid_number">Povolené telefónne číslo nebolo aktualizované: Dľžka čísla nemôže presiahnuť 20 číslic.</string>
-  <string name="fdn_only_error">Operácie sú povolené iba na povoleních číslach.</string>
+  <string name="fdn_only_error">Operácie sú povolené iba na povolených číslach.</string>
   <string name="fw_change_failed">"Zmena čísla hlasovej schránky sa nepodarila.\nPokiaľ problém pretrváva, obráťte sa na svojho operátora."</string>
   <string name="fw_get_in_vm_failed">"Načítanie a uloženie aktuálneho nastavenia čísla pri presmerovaní sa nepodarilo.\nChcete napriek tomu prepnúť na nového poskytovateľa?"</string>
   <string name="general_news_settings">Obecné správy</string>
@@ -245,12 +245,12 @@
   <string name="get_smsc_address_timeout">Vypršal časový limit pre získání SMS čísla poskytovateľa, prosím skúte to neskôr.</string>
   <string name="goPrivate">Ísť do súkromných</string>
   <string name="gsm_umts_options">Možnosti GSM/UMTS</string>
-  <string name="hac_mode_summary">Zapnúť režim kompatibility s nasluchádlom</string>
+  <string name="hac_mode_summary">Zapnúť režim kompatibility s naslúchadlom</string>
   <string name="hac_mode_title">Naslúchadlo</string>
-  <string name="handon_ringer_summary">Nie je funkčné pokiaľ sú zapnuté vibrácie pre prichádzajúci hovor</string>
-  <string name="handon_ringer_title">Zdvihnutím ztíšit</string>
+  <string name="handon_ringer_summary">Nie je funkčné, pokiaľ sú zapnuté vibrácie pre prichádzajúci hovor</string>
+  <string name="handon_ringer_title">Zdvihnutím stíšit</string>
   <string name="hangup">Zložiť</string>
-  <string name="hangup_sms">Stlačte tlačídlo Menu pre odmietnutie a automatickú odpoveď pomocou SMS</string>
+  <string name="hangup_sms">Stlačte tlačidlo Menu pre odmietnutie a autom. odpoveď pomocou SMS</string>
   <string name="icc_related_setting_summary">Presmerovanie hovorov, čakanie hovoru, a daľšie nastavenia mobilnej siete</string>
   <string name="icc_related_setting_title">Prichádzajúce a odchádzajúce hovory</string>
   <string name="ignore">Ignorovať</string>
@@ -340,7 +340,7 @@
   <string name="new_pin2_hint">Nový PIN2</string>
   <string name="new_pin_hint">Nový PIN</string>
   <string name="no_change">Neboli vykonané žiadne zmeny.</string>
-  <string name="no_internet_available">Ak chcete uskutočniť internetové volanie, skontrolujte najprv Vaše internetové pripojenie.</string>
+  <string name="no_internet_available">Ak chcete uskutočniť internetové volanie, skontrolujte najprv vaše internetové pripojenie.</string>
   <string name="no_internet_available_title">Chýba internetové pripojenie</string>
   <string name="no_sip_account_found">Nemáte žiadny účet pre internetové volania. Chcete ho vytvoriť?</string>
   <string name="no_sip_account_found_title">Žiadny účet internetového volania</string>
