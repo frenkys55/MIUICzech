@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
   <string name="BaMmi">Blokovanie hovorov</string>
-  <string name="CLIRDefaultOffNextCallOff">V predvolenom nastavenia nie je identifikácia volajúceho obmedzená. Budúci hovor: Neobmedzená</string>
-  <string name="CLIRDefaultOffNextCallOn">V predvolenom nastavenia nie je identifikácia volajúceho obmedzená. Budúci hovor: Obmedzená</string>
-  <string name="CLIRDefaultOnNextCallOff">V predvolenom nastavenia je identifikácia volajúceho obmedzená. Budúci hovor: Neobmedzená</string>
-  <string name="CLIRDefaultOnNextCallOn">V predvolenom nastavenia je identifikácia volajúceho obmedzená. Budúci hovor: Obmedzená</string>
+  <string name="CLIRDefaultOffNextCallOff">V predvolenom nastavení nie je identifikácia volajúceho obmedzená. Budúci hovor: Neobmedzená</string>
+  <string name="CLIRDefaultOffNextCallOn">V predvolenom nastavení nie je identifikácia volajúceho obmedzená. Budúci hovor: Obmedzená</string>
+  <string name="CLIRDefaultOnNextCallOff">V predvolenom nastavení je identifikácia volajúceho obmedzená. Budúci hovor: Neobmedzená</string>
+  <string name="CLIRDefaultOnNextCallOn">V predvolenom nastavení je identifikácia volajúceho obmedzená. Budúci hovor: Obmedzená</string>
   <string name="CLIRPermanent">Nedá sa zmeniť nastavenie identifikácie volajúceho.</string>
   <string name="CfMmi">Presmerovanie hovorov</string>
   <string name="ClipMmi">Prich. identifikácia volajúceho</string>
