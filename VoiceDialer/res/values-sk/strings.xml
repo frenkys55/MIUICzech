@@ -18,7 +18,7 @@
     <string name="listening">Počúvam...</string>
     <string name="please_try_again">Prosím skúste to znovu neskôr.</string>
     <string name="failure">Zlyhanie</string>
-    <string name="recognition_error">Môžete tieš skúsiť reštartovať svoj telefón.</string>
+    <string name="recognition_error">Môžete tiež skúsiť reštartovať svoj telefón.</string>
     <string name="headset_connection_lost">Pripojenie k súprave headset sa prerušilo.</string>
     <string name="at_home">" domov"</string>
     <string name="on_mobile">" mobil"</string>
