@@ -27,7 +27,7 @@
   <string name="no">Nie</string>
   <string name="notification_text">Aplikácii %s bolo udelené SU oprávnenie</string>
   <string name="open_root_permission_message">Povolením umožníte aplikácii požadovať SU oprávnenie.\nPoznámka: Aplikácia môže v tomto režime spôsobiť nestabilitu systému či stratu osobných dát, poškodenie systému alebo hardwaru, prosím buďte opatrní. Naozaj toto chcete povoliť?</string>
-  <string name="permdesc_respond">Umožní aplikaci odpovídat na SU požadavek</string>
+  <string name="permdesc_respond">Umožní aplikacií odpovedať na SU požiadavku</string>
   <string name="permission">Oprávnenia:</string>
   <string name="permission_call_phone">" Telefon"</string>
   <string name="permission_call_phone_summary">Oprávnenie vytáčať, dvíhať a pokladať hovory</string>
