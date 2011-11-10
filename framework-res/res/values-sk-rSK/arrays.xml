@@ -3,7 +3,7 @@
     <string-array name="emailAddressTypes">
         <item>Domov</item>
         <item>Práca</item>
-        <item>Dalšie</item>
+        <item>Ďalšie</item>
         <item>Voliteľné</item>
     </string-array>
     <string-array name="imProtocols">
@@ -18,7 +18,7 @@
     </string-array>
     <string-array name="organizationTypes">
         <item>Práca</item>
-        <item>Dalšie</item>
+        <item>Ďalšie</item>
         <item>Voliteľné</item>
     </string-array>
     <string-array name="phoneTypes">
@@ -28,13 +28,13 @@
         <item>Práca Fax</item>
         <item>Domov Fax</item>
         <item>Pager</item>
-        <item>Dalšie</item>
+        <item>Ďalšie</item>
         <item>Voliteľné</item>
     </string-array>
     <string-array name="postalAddressTypes">
         <item>Domov</item>
         <item>Práca</item>
-        <item>Dalšie</item>
+        <item>Ďalšie</item>
         <item>Voliteľné</item>
     </string-array>
     <integer-array name="maps_starting_lat_lng">
@@ -92,7 +92,7 @@
     <string-array name="imAddressTypes">
         <item>Domov</item>
         <item>Práca</item>
-        <item>Dalšie</item>
+        <item>Ďalšie</item>
         <item>Voliteľné</item>
     </string-array>
 </resources>
