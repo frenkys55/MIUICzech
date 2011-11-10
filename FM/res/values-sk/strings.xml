@@ -24,7 +24,7 @@
     <string name="fmradio_found_format">%s MHz</string>
     <string name="fmradio_found_station">Nájdených %d staníc</string>
     <string name="fmradio_in_calling_at_begin"></string>
-    <string name="fmradio_no_headset_at_begin">Pripojte slúchadlá pred spustením rádia</string>
+    <string name="fmradio_no_headset_at_begin">Pred spustením rádia pripojte slúchadlá</string>
     <string name="fmradio_no_headset_in_listen">Rádio bolo automaticky vypnuté, pripojte slúchadlá</string>
     <string name="fmradio_on_airplane_mode_in_listen">Režim Lietadlo automaticky vypne rádio</string>
     <string name="fmradio_scan_begin_msg">Vyhľadávane...</string>
@@ -54,7 +54,7 @@
     <string name="min_time">1</string>
     <string name="ok">OK</string>
     <string name="popup_time">%d min.</string>
-    <string name="preset">Predvolba</string>
+    <string name="preset">Predvoľba</string>
     <string name="quit_warining">Rádio prestane hrať po uplynutí %d min.</string>
     <string name="saved">Uložiť</string>
     <string name="scan">Vyhľadať</string>
