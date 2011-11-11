@@ -4,7 +4,7 @@
     <string name="read_attachment_label">Čítať prílohy e-mailov</string>
     <string name="read_attachment_desc">Umožňuje tejto aplikácií čítanie e-mailových príloh.</string>
     <string name="permission_access_provider_label">Prístup k dátam poskytovateľa e-mailu</string>
-    <string name="permission_access_provider_desc">Povoľuje tejto aplikácii prístup do databáze aplikácie Email, vrátane prijatých a odoslaných správ, uživateľských mien a hesiel.</string>
+    <string name="permission_access_provider_desc">Povoľuje tejto aplikácii prístup do databázy aplikácie Email, vrátane prijatých a odoslaných správ, uživateľských mien a hesiel.</string>
     <string name="app_name">E-mail</string>
     <string name="compose_title">Napísať</string>
     <string name="debug_title">Ladiť</string>
