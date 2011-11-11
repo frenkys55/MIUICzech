@@ -17,7 +17,7 @@
   <string name="accessibility_service_disable_warning">Deaktivovať uľahčenie?</string>
   <string name="accessibility_service_no_apps_message">"Nie sú nainštalované žiadne aplikácie týkajúce sa uľahčenia.\n\nProstredníctvom služby Android Market môžete do svojho zariadenia stiahnuť čítačku obrazovky.\n\nTlačidlom OK čítačku obrazovky nainštalujete."</string>
   <string name="accessibility_service_no_apps_title">Neboli nájdené žiadne aplikácie týkajúce sa uľahčenia</string>
-  <string name="accessibility_service_security_warning">Táto služba uľahčenia môže zhromažďovať všetok text, ktorý napíšete, vrátane osobných údajov a čísel kreditných kariet, nie však heslá. Môže tiež protokolovať vaše interakcie s užívateľským rozhraním. Služba pochádza z aplikácie %1$s. Chcete túto službu uľahčenia použiť?</string>
+  <string name="accessibility_service_security_warning">Táto služba uľahčenia môže zhromažďovať celý text, ktorý napíšete, vrátane osobných údajov a čísel kreditných kariet, nie však heslá. Môže tiež protokolovať vaše interakcie s užívateľským rozhraním. Služba pochádza z aplikácie %1$s. Chcete túto službu uľahčenia použiť?</string>
   <string name="accessibility_services_category">Služby uľahčenia</string>
   <string name="accessibility_settings">Uľahčenie</string>
   <string name="accessibility_settings_title">Nastavenie uľahčenia</string>
